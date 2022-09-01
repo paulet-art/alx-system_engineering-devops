@@ -10,3 +10,4 @@ task 8 - script that sets the permission to the file hello as follows
 task 9 -  script that sets the mode of the file hello
 task 9 -  script that sets the mode of the file hello
 task 10- script that sets the mode of the file hello the same as olleh’s mode
+task 11 - script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users
