@@ -8,3 +8,4 @@ task 6 - script that adds execute permission to the owner and the group owner, a
 task 7 - script that adds execution permission to the owner, the group owner and the other users, to the file hello
 task 8 - script that sets the permission to the file hello as follows
 task 9 -  script that sets the mode of the file hello
+task 9 -  script that sets the mode of the file hello
