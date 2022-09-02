@@ -1,7 +1,7 @@
-A series of script files with 2-line commands to perfom actions on a file
-task 0-script that prints the absolute path name of the current working directory
-task 1-Displays the contents list of your current directory
-task 2-script that changes the working directory to the user’s home directory
+A series of script files with 2-line commands to perfom actions on a file\n
+task 0-script that prints the absolute path name of the current working directory\n
+task 1-Displays the contents list of your current directory\n
+task 2-script that changes the working directory to the user’s home directory\n
 task 3-Displays current directory contents in a long format
 task 4-Display current directory contents, including hidden files 
 task 5-Display current directory contents
