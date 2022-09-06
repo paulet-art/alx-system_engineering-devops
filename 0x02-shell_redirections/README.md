@@ -1,7 +1,6 @@
-<<<<<<< HEAD
+
 task 0-script that prints “Hello, World”
-task 1-script that displays a confused smiley
+task 1-script that displays a confused smiley 
 task 2-Display the content of the /etc/passwd file
-=======
-task 0 - script that prints “Hello, World”, followed by a new line to the standard output
->>>>>>> 0a93a2c27bb9788bba2c6e376e9b493cc2eebd23
+task 3-Display the content of /etc/passwd and /etc/hosts
+task 4-Display the last 10 lines of /etc/passwd
