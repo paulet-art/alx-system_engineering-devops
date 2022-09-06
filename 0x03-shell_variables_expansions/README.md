@@ -5,7 +5,10 @@ task 3-a script that counts the number of directories in the PATH <br>
 task 4-a script that lists environment variables <br/>
 task 5- a script that lists all local variables and environment variables, and functions <br />
 task 6-a script that creates a new local variable <br/>
-task 7-a script that creates a new global variable
-task 8-a script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE
-task 9- script that prints the result of POWER divided by DIVIDE
-task 10-script that displays the result of BREATH to the power LOVE
+task 7-a script that creates a new global variable <br />
+task 8-a script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE<br />
+task 9- script that prints the result of POWER divided by DIVIDE<br/>
+task 10-script that displays the result of BREATH to the power LOVE <br />
+task 11-a script that converts a number from base 2 to base 10 <br/>
+task 12-a script that prints all possible combinations of two letters, except oo <br/>
+task 13- a script that prints a number with two decimal places 
